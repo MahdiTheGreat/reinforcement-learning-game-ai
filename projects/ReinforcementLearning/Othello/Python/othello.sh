@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Example script for the Othello assignment. Don't forget to make it executable (chmod +x othello)
+# Execution wrapper for Othello game engine evaluation. Ensure executable: chmod +x othello.sh
 # Change the last line (python3 Othello.py ...) if you are using python2 
 #
 # usage: bash othello <position> <time_limit> <do_compile>
